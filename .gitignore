@@ -2,6 +2,27 @@
 # Created by https://www.gitignore.io/api/django
 # Edit at https://www.gitignore.io/?templates=django
 node_modules/
+
+# Created by https://www.gitignore.io/api/react
+# Edit at https://www.gitignore.io/?templates=react
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_componets
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# End of https://www.gitignore.io/api/react
 ### Django ###
 *.log
 *.pot
